@@ -107,7 +107,7 @@ karan = {
 | &nbsp; | Project | Description | Stack | Link |
 |:------:|---------|-------------|-------|:----:|
 | 🌦️ | **Weather App** | Flask web app that delivers real-time city weather reports — temperature, humidity, sunrise/sunset — with secure user auth, session management, and persistent search history via SQLite | `Flask` `Python` `SQLite` `OpenWeatherMap API` `Bootstrap` `HTML/CSS` | [Repo →](https://github.com/KaranGB83/weather) |
-| 📈 | **kbFinance** | Full-stack Django web application for screening NSE & BSE listed Indian stocks — features real-time price tracking, fundamental analysis (ROE, P/E, EPS, Debt/Equity), interactive dashboards, and user-friendly UI for investors | `Django` `Python` `PostgreSQL` `JavaScript` `Bootstrap` `yfinance` | [Repo →](https://github.com/KaranGB83/kbFinance) |
+| 📈 | **kbFinance** | Full-stack Django web application for screening NSE & BSE listed Indian stocks — features real-time price tracking, fundamental analysis (ROE, P/E, EPS, Debt/Equity), interactive dashboards, and user-friendly UI for investors | `Django` `Python` `PostgreSQL` `JavaScript` `React` `Bootstrap` `yfinance` | [Repo →](https://github.com/KaranGB83/kbFinance) |
 | 🌾 | **Farming AI Assistant** | AI-driven assistant that bridges smart farming insights to grassroots farmers — crop guidance, soil analysis, and actionable recommendations powered by machine learning | `Python` `Jupyter Notebook` `Machine Learning` `AI` | [Repo →](https://github.com/KaranGB83/FARMING-AI-ASSISTANT) |
 
 </div>
