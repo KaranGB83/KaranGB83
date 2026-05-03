@@ -80,12 +80,19 @@ karan = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=KaranGB83&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="175px"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaranGB83&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="175px"/>
+<!-- GitHub Trophies -->
+<img src="https://github-profile-trophy.vercel.app/?username=KaranGB83&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%"/>
 
 <br/><br/>
 
+<!-- Profile Summary Card -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KaranGB83&theme=tokyonight" width="100%"/>
+
+<br/>
+
+<!-- Top Languages + Streak side by side -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaranGB83&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="175px"/>
+&nbsp;&nbsp;
 <img src="https://streak-stats.demolab.com/?user=KaranGB83&theme=tokyonight&hide_border=true&stroke=6E40C9&ring=6E40C9&fire=ff6b6b&currStreakLabel=6E40C9" height="175px"/>
 
 </div>
