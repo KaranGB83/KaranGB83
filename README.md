@@ -76,7 +76,7 @@ karan = {
 -->
 ---
 
-##  GitHub Stats
+##  GITHUB STATS
 
 <div align="center">
 
