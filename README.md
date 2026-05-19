@@ -91,7 +91,7 @@ karan = {
 <br/>
 
 <!-- Top Languages + Streak side by side -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaranGB83&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="175px"/>
+
 &nbsp;&nbsp;
 <img src="https://streak-stats.demolab.com/?user=KaranGB83&theme=tokyonight&hide_border=true&stroke=6E40C9&ring=6E40C9&fire=ff6b6b&currStreakLabel=6E40C9" height="175px"/>
 
