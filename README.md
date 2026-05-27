@@ -93,7 +93,7 @@ karan = {
 <!-- Top Languages + Streak side by side -->
 
 &nbsp;&nbsp;
-<img src="https://streak-stats.demolab.com/?user=KaranGB83&theme=tokyonight&hide_border=true&stroke=6E40C9&ring=6E40C9&fire=ff6b6b&currStreakLabel=6E40C9" height="175px"/>
+<img src="https://streak-stats.demolab.com/?user=KaranGB83&theme=tokyonight" height="175px"/>
 
 </div>
 
