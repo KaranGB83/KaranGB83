@@ -81,7 +81,7 @@ karan = {
 <div align="center">
 
 <!-- GitHub Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=KaranGB83&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%"/>
+<img src="https://github-profile-trophy.screw-hand.vercel.app/?username=KaranGB83&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%"/>
 
 <br/><br/>
 
