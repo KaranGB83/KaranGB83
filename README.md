@@ -90,10 +90,10 @@ karan = {
 
 <br/>
 
-<!-- Top Languages + Streak side by side -->
-
+<!-- Stats Summary + Most Commit Language side by side -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KaranGB83&theme=tokyonight" height="175px"/>
 &nbsp;&nbsp;
-
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KaranGB83&theme=tokyonight" height="175px"/>
 
 </div>
 
