@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6E40C9&height=200&section=header&text=Karan%20Bhatre&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20Backend%20Specialist%20%C2%B7%20B.Sc%20IT%20Final%20Year&descAlignY=60&descSize=17&descColor=d0bfff" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6E40C9&center=true&vCenter=true&width=650&lines=Building+scalable+backends+with+Django+%26+FastAPI;Crafting+responsive+UIs+with+React.js;Turning+ideas+into+production-ready+products;Open+to+Full-Time+SDE+%2F+Full-Stack+Opportunities)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6E40C9&center=true&vCenter=true&width=650&lines=Building+backends+with+Django%2C+FastAPI+%26+Express;Architecting+full-stack+MERN+applications;Crafting+responsive+UIs+with+React.js;Turning+ideas+into+production-ready+products;Open+to+Full-Time+SDE+%2F+Full-Stack+Opportunities)](https://git.io/typing-svg)
 
 </div>
 
@@ -10,7 +10,7 @@
 
 ## Introduction
 
-I'm a **final-year B.Sc IT student at Mumbai University** and a **Full-Stack Developer Intern** with proven experience building and shipping production-ready web applications. I specialise in designing robust, scalable backend systems using **Django & FastAPI**, while delivering polished, responsive frontends with **React.js**. I care deeply about clean code, solid architecture, and real-world impact — and I'm actively seeking full-time opportunities and Internships where I can contribute from day one.
+I'm a **final-year B.Sc IT student at Mumbai University** and a **Full-Stack Developer Intern** with proven experience building and shipping production-ready web applications. I specialise in designing robust, scalable backend systems using **Django, FastAPI & Node.js/Express**, while delivering polished, responsive frontends with **React.js** — including full **MERN stack** applications with authentication, rate limiting, and real-world deployment. I care deeply about clean code, solid architecture, and real-world impact — and I'm actively seeking full-time opportunities and Internships where I can contribute from day one.
 
 ---
 
@@ -25,10 +25,15 @@ karan = {
         "AI / ML Intern              @  Edunet Foundation × IBM SkillsBuild",
     ],
 
-    "  backend"        : ["Django", "FastAPI", "REST APIs", "PostgreSQL", "MYSQL"],
+    "  backend"        : ["Django", "FastAPI", "Node.js", "Express.js", "REST APIs",
+                            "JWT Auth", "PostgreSQL", "MySQL", "MongoDB"],
 
-    "  frontend"       : ["React.js", "JavaScript (ES6+)", "HTML5", "CSS3",
-                            "Bootstrap", "Responsive Design"],
+    "  frontend"       : ["React.js", "React Router", "Vite", "JavaScript (ES6+)",
+                            "HTML5", "CSS3", "Tailwind CSS", "DaisyUI", "Bootstrap",
+                            "Responsive Design"],
+
+    "  mern_stack"     : ["MongoDB", "Express.js", "React.js", "Node.js",
+                            "Mongoose", "Redis (Upstash)", "Nodemailer"],
 
     "  certifications" : [
         "IBM–Edunet AICTE Internship Certificate",
@@ -41,7 +46,6 @@ karan = {
 ```
 
 ---
- <!-- "  building_now"   : "Cloud Resume Builder  +  AI Chatbot API", -->
 ##  Tech Stack
 
 ###  Languages
@@ -56,8 +60,12 @@ karan = {
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![React](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ###  Databases
@@ -65,6 +73,7 @@ karan = {
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ###  Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -73,8 +82,8 @@ karan = {
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-<!--![Cloud](https://img.shields.io/badge/Cloud_Deployment-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
--->
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+
 ---
 
 ##  GITHUB STATS
@@ -116,8 +125,8 @@ karan = {
 
 | &nbsp; | Project | Description | Stack | Link |
 |:------:|---------|-------------|-------|:----:|
-| 🌦️ | **Weather App** | Flask web app that delivers real-time city weather reports — temperature, humidity, sunrise/sunset — with secure user auth, session management, and persistent search history via SQLite | `Flask` `Python` `SQLite` `OpenWeatherMap API` `Bootstrap` `HTML/CSS` | [Repo →](https://github.com/KaranGB83/weather) |
-| 📈 | **kbFinance** | Full-stack Django web application for screening NSE & BSE listed Indian stocks — features real-time price tracking, fundamental analysis (ROE, P/E, EPS, Debt/Equity), interactive dashboards, and user-friendly UI for investors (Live Link – kbfinance.onrender.com)| `Django` `Python` `PostgreSQL` `JavaScript` `React` `Bootstrap` `yfinance` | [Repo →](https://github.com/KaranGB83/kbFinance) |
+| 📰 | **kbNews** | Full-stack MERN news platform with JWT authentication, email verification via Gmail SMTP, httpOnly cookie sessions, and article ownership enforcement — plus Redis-backed sliding window rate limiting and a responsive React 19 UI (Live Link – kbnews.onrender.com) | `MongoDB` `Express.js` `React 19` `Node.js` `JWT` `Upstash Redis` `Tailwind CSS` `DaisyUI` `Vite` | [Repo →](https://github.com/KaranGB83/kbNews) |
+| 📈 | **kbFinance** | Full-stack Django web application for screening NSE & BSE listed Indian stocks — features real-time price tracking, fundamental analysis (ROE, P/E, EPS, Debt/Equity), interactive dashboards, and user-friendly UI for investors (Live Link – kbfinance.onrender.com) | `Django` `Python` `PostgreSQL` `JavaScript` `React` `Bootstrap` `yfinance` | [Repo →](https://github.com/KaranGB83/kbFinance) |
 | 🌾 | **Farming AI Assistant** | AI-driven assistant that bridges smart farming insights to grassroots farmers — crop guidance, soil analysis, and actionable recommendations powered by machine learning | `Python` `Jupyter Notebook` `Machine Learning` `AI` | [Repo →](https://github.com/KaranGB83/FARMING-AI-ASSISTANT) |
 
 </div>
@@ -132,20 +141,10 @@ karan = {
     <td><strong>Advanced React.js</strong></td>
     <td>Hooks, Context API, custom hooks, performance optimisation, and state management patterns</td>
   </tr>
-  <!-- <tr>
-    <td>🌐</td>
-    <td><strong>Next.js</strong></td>
-    <td>Server-side rendering, static generation, App Router, and full-stack React patterns</td>
-  </tr>
-  <tr>
-    <td>📱</td>
-    <td><strong>Responsive Design Best Practices</strong></td>
-    <td>Mobile-first layouts, accessibility (a11y), CSS Grid & Flexbox mastery, design systems</td>
-  </tr> -->
   <tr>
     <td></td>
     <td><strong>Cloud-Native Deployment</strong></td>
-    <td>Docker, CI/CD pipelines, container orchestration, deploying Django & FastAPI apps to production</td>
+    <td>Docker, CI/CD pipelines, container orchestration, deploying Django, FastAPI & MERN apps to production</td>
   </tr>
   <tr>
     <td></td>
