@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6E40C9&height=200&section=header&text=Karan%20Bhatre&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20Backend%20Specialist%20%C2%B7%20B.Sc%20IT%20Final%20Year&descAlignY=60&descSize=17&descColor=d0bfff" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6E40C9&center=true&vCenter=true&width=650&lines=Building+backends+with+Django%2C+FastAPI+%26+Express;Architecting+full-stack+MERN+applications;Crafting+responsive+UIs+with+React.js;Turning+ideas+into+production-ready+products;Open+to+Full-Time+SDE+%2F+Full-Stack+Opportunities)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6E40C9&center=true&vCenter=true&width=650&lines=Building+scalable+backends+with+Django%2C+FastAPI+%26+Express;Architecting+full-stack+MERN+applications;Crafting+responsive+UIs+with+React.js;Turning+ideas+into+production-ready+products;Open+to+Full-Time+SDE+%2F+Full-Stack+Opportunities)](https://git.io/typing-svg)
 
 </div>
 
@@ -18,7 +18,7 @@ I'm a **final-year B.Sc IT student at Mumbai University** and a **Full-Stack Dev
 
 ```python
 karan = {
-    "  education"      : "B.Sc Information Technology — Mumbai University  |  GPA: 8.91 / 10",
+    "  education"      : "B.Sc Information Technology — Mumbai University  |  CGPA: 9.0 / 10",
 
     "  internships"    : [
         "Full-Stack Developer Intern  @  AltissAdvance Tech Pvt. Ltd.",
@@ -38,7 +38,7 @@ karan = {
     "  certifications" : [
         "IBM–Edunet AICTE Internship Certificate",
         "CS50x — Introduction to Computer Science  (Harvard / edX)",
-        "CS50P — Introduction to Programming with Python  (Harvard / edX)",
+        "CS50W — Web Programming with Python and JavaScript  (Harvard / edX)",
     ],
 
     "  open_to"        : "Full-Time SDE · Full-Stack · Backend Engineer Roles",
