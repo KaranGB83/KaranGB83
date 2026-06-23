@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6E40C9&height=200&section=header&text=Karan%20Bhatre&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20Backend%20Specialist%20%C2%B7%20B.Sc%20IT%20Final%20Year&descAlignY=60&descSize=17&descColor=d0bfff" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6E40C9&center=true&vCenter=true&width=650&lines=Building+scalable+backends+with+Django%2C+FastAPI+%26+Express;Architecting+full-stack+MERN+applications;Crafting+responsive+UIs+with+React.js;Turning+ideas+into+production-ready+products;Open+to+Full-Time+SDE+%2F+Full-Stack+Opportunities)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6E40C9&center=true&vCenter=true&width=650&lines=Building+backends+with+Django%2C+FastAPI+%26+Express;Architecting+full-stack+MERN+applications;Crafting+responsive+UIs+with+React.js;Turning+ideas+into+production-ready+products;Open+to+Full-Time+SDE+%2F+Full-Stack+Opportunities)](https://git.io/typing-svg)
 
 </div>
 
