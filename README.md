@@ -18,7 +18,7 @@ I'm a **final-year B.Sc IT student at Mumbai University** and a **Full-Stack Dev
 
 ```python
 karan = {
-    "  education"      : "B.Sc Information Technology — Mumbai University  |  CGPA: 9.0 / 10",
+    "  education"      : "B.Sc Information Technology — Mumbai University  |  CGPA: 8.86 / 10",
 
     "  internships"    : [
         "Full-Stack Developer Intern  @  AltissAdvance Tech Pvt. Ltd.",
@@ -91,19 +91,20 @@ karan = {
 <div align="center">
 
 <!-- GitHub Trophies -->
-<img src="https://github-profile-trophy.screw-hand.vercel.app/?username=KaranGB83&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=KaranGB83&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%"/>
 
 <br/><br/>
 
-<!-- Profile Summary Card -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KaranGB83&theme=tokyonight" width="100%"/>
-
-<br/>
-
-<!-- Stats Summary + Most Commit Language side by side -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KaranGB83&theme=tokyonight" height="175px"/>
+<!-- Stats card (anuraghazra/github-readme-stats) -->
+<img src="https://github-readme-stats.vercel.app/api?username=KaranGB83&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="175px"/>
 &nbsp;&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KaranGB83&theme=tokyonight" height="175px"/>
+<!-- Top languages card -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaranGB83&layout=compact&theme=tokyonight&hide_border=true" height="175px"/>
+
+<br/><br/>
+
+<!-- Streak stats -->
+<img src="https://streak-stats.demolab.com/?user=KaranGB83&theme=tokyonight&hide_border=true" width="100%"/>
 
 </div>
 
@@ -113,7 +114,7 @@ karan = {
 
 <div align="center">
 
-[![Karan's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KaranGB83&theme=tokyo-night&hide_border=true&area=true&area_color=6E40C9&line=6E40C9&point=ffffff)](KaranGB83)
+[![Karan's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KaranGB83&theme=tokyo-night&hide_border=true&area=true&area_color=6E40C9&line=6E40C9&point=ffffff)](https://github.com/KaranGB83)
 
 </div>
 
@@ -159,7 +160,7 @@ karan = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karan-bhatre-912634322/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karan-bhatre/)
 &nbsp;
 [![Twitter / X](https://img.shields.io/badge/Twitter%20%2F%20X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Karan_GB)
 &nbsp;
@@ -177,6 +178,6 @@ karan = {
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6E40C9&height=120&section=footer"/>
 
- From [KaranGB83](KaranGB83)
+ From [KaranGB83](https://github.com/KaranGB83)
 
 </div>
