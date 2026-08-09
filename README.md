@@ -96,10 +96,10 @@ karan = {
 <br/><br/>
 
 <!-- Stats card (anuraghazra/github-readme-stats) -->
-<img src="https://github-readme-stats.vercel.app/api?username=KaranGB83&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="175px"/>
+<img src="https://github-readme-stats-gray-six-72.vercel.app/api?username=KaranGB83&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="175px"/>
 &nbsp;&nbsp;
 <!-- Top languages card -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaranGB83&layout=compact&theme=tokyonight&hide_border=true" height="175px"/>
+<img src="https://github-readme-stats-gray-six-72.vercel.app/api/top-langs/?username=KaranGB83&layout=compact&theme=tokyonight&hide_border=true" height="175px"/>
 
 <br/><br/>
 
