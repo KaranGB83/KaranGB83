@@ -110,13 +110,6 @@ karan = {
 
 ---
 
-##  Contribution Graph
-
-<div align="center">
-
-[![Karan's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KaranGB83&theme=tokyo-night&hide_border=true&area=true&area_color=6E40C9&line=6E40C9&point=ffffff)](https://github.com/KaranGB83)
-
-</div>
 
 ---
 
